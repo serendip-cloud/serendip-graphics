@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.24984in" height="3.09654in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 42498 30965"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil4 {fill:#FBF9F4}
+    .fil2 {fill:#A38755;fill-rule:nonzero}
+    .fil1 {fill:#BB9B61;fill-rule:nonzero}
+    .fil3 {fill:#D2AE6D;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2596383762624">
+   <rect class="fil0" width="42498" height="30965"/>
+   <g id="_1597016869696">
+    <g>
+     <path class="fil1" d="M10582 15498c0,-5886 4796,-10682 10683,-10682 5886,0 10651,4796 10651,10682 0,5887 -4765,10651 -10651,10651 -5887,0 -10683,-4764 -10683,-10651z"/>
+     <path class="fil2" d="M29487 8740c1526,1838 2429,4173 2429,6758 0,5887 -4765,10651 -10651,10651 -3301,0 -6229,-1494 -8191,-3830 0,0 8035,3083 12987,-1869 4952,-4952 3426,-11710 3426,-11710l0 0z"/>
+     <path class="fil3" d="M13148 10083c0,-2024 1649,-3674 3674,-3674 2024,0 3663,1650 3663,3674 0,2024 -1639,3663 -3663,3663 -2025,0 -3674,-1639 -3674,-3663z"/>
+    </g>
+    <g>
+     <polygon class="fil4" points="24663,9225 18974,9225 17836,9225 17836,10363 18974,10363 23525,10363 24662,9225 "/>
+     <polygon class="fil4" points="24663,11500 18974,11500 17836,11500 17836,12638 18974,12638 23525,12638 23525,13776 23525,14914 24663,14914 24663,13776 "/>
+     <polygon class="fil4" points="22387,13776 18974,13776 17836,13776 17836,14914 22387,14914 22387,13776 "/>
+     <polygon class="fil4" points="24663,16052 17836,16052 17836,17190 23525,17190 "/>
+     <polygon class="fil4" points="17836,18327 24663,18327 23525,19465 18974,19465 18974,21741 17836,21741 "/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

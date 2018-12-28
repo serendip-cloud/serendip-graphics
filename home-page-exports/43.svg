@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.22748in" height="2.19681in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 22275 21968"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#BFCBE5;stroke-width:30}
+    .fil3 {fill:#A38755}
+    .fil0 {fill:#BFCBE5}
+    .fil1 {fill:#E9EDF6}
+    .fil2 {fill:#F5F7FA}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2598378853872">
+   <circle class="fil0 str0" cx="11600" cy="11293" r="10675"/>
+   <circle class="fil1" transform="matrix(0.345372 1.28895 -1.28895 0.345372 10677.6 10677.9)" r="8000"/>
+   <circle class="fil2" transform="matrix(0.228713 0.853566 -0.853566 0.228712 8637.2 10792.8)" r="8000"/>
+   <path class="fil3" d="M3538 9666l1247 0 231 -464 -913 -911 1505 -1505 913 912 463 -232 0 -1246 2036 0 -1 1246 464 232 913 -913 1505 1506 -718 718c2181,-471 4369,-1523 5746,-3277l0 3284 888 0 0 3324 -888 0 0 3284c-1377,-1754 -3565,-2806 -5746,-3277l718 718 -1505 1506 -913 -913 -464 232 1 1246 -2036 0 0 -1246 -463 -232 -913 912 -1505 -1505 913 -911 -231 -465 -1247 1 0 -2024zm4464 -316c-736,0 -1333,597 -1333,1333 0,737 597,1334 1333,1334 737,0 1334,-597 1334,-1334 0,-736 -597,-1333 -1334,-1333zm-946 1333c0,-521 422,-946 946,-946 523,0 946,424 946,946 0,523 -423,946 -946,946 -522,0 -946,-423 -946,-946zm10374 -1280l-501 0 0 2549 501 0 0 -2549zm-888 -2666c-668,648 -1448,1180 -2289,1606 -1053,534 -2132,867 -3282,1107l-256 -519 640 -640 -959 -960 -836 837 -926 -464 0 -1098 -1262 0 0 1097 -927 464 -836 -835 -959 959 835 835 -460 926 -1100 0 0 1252 1100 -1 460 927 -835 835 959 958 836 -835 927 465 0 1097 1262 0 0 -1098 926 -464 836 837 959 -960 -640 -640 256 -520c1150,241 2229,574 3282,1108 841,426 1621,958 2289,1606l0 -7882z"/>
+  </g>
+ </g>
+</svg>
