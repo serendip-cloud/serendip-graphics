@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.91886in" height="0.924134in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 29189 9241"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.766929in" height="0.766929in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7669 7669"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil2 {fill:#3D3220}
-    .fil1 {fill:#AD915C}
-    .fil0 {fill:white}
+    .fil1 {fill:#CEB68C;fill-rule:nonzero}
+    .fil0 {fill:#E2CBA1;fill-rule:nonzero}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2556916381184">
-   <rect class="fil0" width="29188" height="9241" rx="2831" ry="4621"/>
-   <path class="fil1" d="M4621 0l19947 0c2541,0 4621,2079 4621,4620l0 1c0,2541 -2080,4620 -4621,4620l-19947 0c-2542,0 -4621,-2079 -4621,-4620l0 -1c0,-2541 2079,-4620 4621,-4620z"/>
-   <path class="fil0" d="M23026 4703l0 0 0 -165 0 0 0 -19 2960 0 -1111 -1111 145 -145 1358 1358 -1358 1358 -145 -144 1111 -1113 -2960 0 0 -19zm-1593 -82c0,-873 340,-1695 957,-2312 618,-617 1438,-957 2311,-956 873,0 1694,339 2311,957 618,616 957,1438 957,2311 0,873 -339,1694 -957,2311 -617,617 -1438,957 -2311,957 -873,1 -1693,-340 -2311,-956 -617,-618 -957,-1439 -957,-2312zm6333 0c0,-819 -320,-1588 -897,-2167 -580,-578 -1349,-897 -2168,-897 -819,0 -1588,319 -2166,897 -579,579 -898,1348 -898,2167 0,819 319,1588 898,2167 578,578 1347,897 2166,897 819,0 1588,-319 2168,-897 577,-579 897,-1348 897,-2167z"/>
-   <polygon class="fil2" points="19622,1338 19489,1338 19489,7904 19622,7904 "/>
-   <polygon class="fil0" points="19355,1338 19489,1338 19489,7904 19355,7904 "/>
+  <g id="_1503012359248">
+   <path class="fil0" d="M0 3843c0,-2134 1709,-3843 3843,-3843 2117,0 3826,1709 3826,3843 0,2117 -1709,3826 -3826,3826 -2134,0 -3843,-1709 -3843,-3826z"/>
+   <path class="fil1" d="M6807 1396c533,674 862,1521 862,2447 0,2117 -1709,3826 -3826,3826 -1192,0 -2243,-533 -2949,-1364 0,0 2901,1098 4674,-675 1788,-1787 1239,-4234 1239,-4234z"/>
+   <path class="fil1" d="M1686 2407c-329,0 -329,-517 0,-517 345,0 345,517 0,517z"/>
+   <path class="fil1" d="M1513 4729c-345,0 -345,-518 0,-518 330,0 330,518 0,518z"/>
+   <path class="fil1" d="M5089 1435c-47,63 -109,125 -172,172 -94,110 -267,110 -377,0 -94,-94 -94,-266 0,-360 63,-63 126,-126 189,-173 94,-110 266,-110 360,0 110,94 110,267 0,361z"/>
   </g>
  </g>
 </svg>
