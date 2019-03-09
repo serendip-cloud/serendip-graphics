@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27.1654in" height="13.6614in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 271654 136614"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.137in" height="13.396in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 161370 133960"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil0 {fill:#F7F0E3}
+    .fil0 {fill:#F7F2E6;fill-rule:nonzero}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <path class="fil0" d="M271654 136614l-271654 0 0 -125187c22267,16597 53519,25411 109775,-4770 29813,-15994 37542,-680 53599,19642 14713,18619 30332,13972 49841,5049 18782,-8591 38669,-19703 58439,-7504l0 112770 0 0z"/>
+  <path class="fil0" d="M158749 118652c0,6462 -4681,12687 -11476,12687l-133176 0c-6796,0 -11477,-6224 -11477,-12688l0 -103343c0,-6463 4682,-12688 11476,-12688l133177 0c6794,0 11476,6225 11476,12688l0 103344zm-43200 -80344l-6976 0 0 -16800 6976 0 0 16800zm2620 2620l0 -19420 18297 0 0 65740 -15219 0 0 14265 -15218 0 0 10939 -50682 0 0 -10939 -15220 0 0 -14265 -15224 0 0 -65740 18297 0 0 19420 12218 0 0 -19420 8700 0 0 19420 12217 0 0 -19420 8700 0 0 19420 12217 0 0 -19420 8700 0 0 19420 12217 0zm-23537 -2620l-6977 0 0 -16800 6977 0 0 16800zm-20918 0l-6976 0 0 -16800 6976 0 0 16800zm-20917 0l-6976 0 0 -16800 6976 0 0 16800zm108573 80344l0 -103344c0,-7911 -5851,-15308 -14097,-15308l-133177 0c-8245,0 -14096,7397 -14096,15308l0 103343c0,7912 5850,15309 14097,15309l133176 0c8246,0 14097,-7397 14097,-15308zm-37503 -28784l15220 0 0 -70981 -116804 0 0 70981 15223 0 0 14266 15220 0 0 10939 55923 0 0 -10939 15218 0 0 -14266z"/>
  </g>
 </svg>
