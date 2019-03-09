@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.33441in" height="0.651457in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 13344 6515"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27.1654in" height="17.1797in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 271654 171797"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil0 {fill:#DBBB83}
-    .fil1 {fill:#BB9B61}
+    .fil1 {fill:#EDDFC4}
+    .fil0 {fill:#F6EFE2}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_1503091146864">
-   <path class="fil0" d="M0 1769c0,-642 4002,-922 4656,-959 375,-444 1187,-801 2016,-810 829,9 1642,366 2016,810 654,37 4656,317 4656,959 0,792 -5518,854 -6672,854 -1153,0 -6672,-62 -6672,-854l0 0z"/>
-   <path class="fil1" d="M0 5660c0,-642 4002,-922 4656,-958 375,-444 1187,-801 2016,-811 829,10 1642,367 2016,811 654,36 4656,316 4656,958 0,793 -5518,855 -6672,855 -1153,0 -6672,-62 -6672,-855l0 0z"/>
+  <g id="_1502875126480">
+   <path class="fil0" d="M271654 43724c-41546,21957 -105063,10431 -113237,-43724l11737 0c15169,31109 63527,46233 101500,37878l0 5846z"/>
+   <path class="fil0" d="M271654 122879c-99254,-46523 -170405,111508 -271654,19671l0 -97255c24188,41894 57270,59592 93479,63624 67858,7558 121119,-21601 178175,8113l0 5847z"/>
+   <path class="fil1" d="M271654 118074c-26508,-13805 -52359,-11774 -79246,-6399 -31858,6368 -64109,14589 -94398,13095 -47422,-2340 -80980,-30985 -98010,-73809l0 -50961 159523 0c12267,45753 69780,57293 112131,43628l0 74446z"/>
   </g>
  </g>
 </svg>
