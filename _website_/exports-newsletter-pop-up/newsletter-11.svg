@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.3028in" height="0.529173in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 63028 5292"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.0863in" height="0.559803in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20863 5598"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil1 {fill:white}
-    .fil0 {fill:#A38755;fill-rule:nonzero}
+    .fil0 {fill:#A38755}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_1503008319632">
-   <path class="fil0" d="M61904 5292l-60780 0c-309,0 -590,-127 -794,-330 -204,-204 -330,-485 -330,-794l0 -3044c0,-309 126,-590 330,-794 204,-204 485,-330 794,-330l60780 0c309,0 590,126 794,330 204,204 330,485 330,794l0 3044c0,309 -126,590 -330,794 -204,203 -485,330 -794,330zm-60780 -307l60780 0c225,0 429,-92 577,-240 149,-148 241,-353 241,-577l0 -3044c0,-225 -92,-429 -241,-577 -148,-149 -352,-241 -577,-241l-60780 0c-225,0 -429,92 -577,241 -149,148 -241,352 -241,577l0 3044c0,224 92,429 241,577 148,148 352,240 577,240z"/>
-   <path class="fil1" d="M62722 4168l0 -3044c0,-225 -92,-429 -241,-577 -148,-149 -352,-241 -577,-241l-60780 0c-225,0 -429,92 -577,241 -149,148 -241,352 -241,577l0 3044c0,224 92,429 241,577 148,148 352,240 577,240l60780 0c225,0 429,-92 577,-240 149,-148 241,-353 241,-577z"/>
-  </g>
+  <path class="fil0" d="M2799 0l15265 0c1540,0 2799,1259 2799,2799 0,1540 -1259,2799 -2799,2799l-15265 0c-1540,0 -2799,-1259 -2799,-2799 0,-1540 1259,-2799 2799,-2799z"/>
  </g>
 </svg>
