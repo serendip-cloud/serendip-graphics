@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 2600 2600"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.02362in" height="1.02362in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10236 10236"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
@@ -14,9 +14,9 @@ viewBox="0 0 2600 2600"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2307284707744">
-   <path class="fil0" d="M454 1275l176 176 40 -40 -220 -219 -40 0 -219 219 40 40 166 -166c-8,503 400,918 903,918 241,0 468,-94 639,-264 87,-88 155,-191 200,-303l-62 0c-41,97 -102,186 -178,263 -160,160 -373,248 -599,248 -475,-1 -860,-397 -846,-872zm874 -285l-56 0 0 -113 56 0 0 113zm-56 733l0 -621 56 0 0 621 -56 0zm931 -408l166 -166 40 40 -219 219 -40 0 -220 -219 40 -40 176 176c14,-475 -370,-872 -846,-872 -226,0 -439,88 -599,248 -77,77 -137,166 -179,263l-61 0c45,-112 113,-215 200,-303 171,-170 398,-264 639,-264 503,0 911,416 903,918z"/>
-   <rect class="fil1" width="2600" height="2600"/>
+  <g id="_2382577273152">
+   <path class="fil0" d="M1786 5020l694 694 156 -157 -864 -864 -157 0 -864 864 157 157 655 -655c-30,1979 1574,3614 3555,3614 950,0 1842,-369 2514,-1041 346,-345 611,-750 788,-1190l-241 0c-165,380 -402,731 -704,1033 -630,629 -1467,976 -2357,977 -1871,-1 -3386,-1562 -3332,-3432zm3443 -902l-222 0 0 -667 222 0 0 667zm-222 2667l0 -2223 222 0 0 2223 -222 0zm3666 -1607l655 -656 157 157 -864 864 -157 1 -864 -865 157 -157 693 694c53,-1871 -1460,-3431 -3332,-3431 -890,0 -1728,346 -2357,976 -302,302 -539,652 -704,1033l-241 0c177,-440 442,-844 788,-1190 671,-671 1564,-1041 2514,-1041 1980,-1 3585,1636 3555,3615z"/>
+   <rect class="fil1" width="10236" height="10236"/>
   </g>
  </g>
 </svg>

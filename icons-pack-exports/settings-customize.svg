@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X7 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 2600 2600"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.02362in" height="1.02362in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10236 10236"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
@@ -14,9 +14,9 @@ viewBox="0 0 2600 2600"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2307161440624">
-   <rect class="fil0" width="2600" height="2600"/>
-   <path class="fil1" d="M1897 969l177 -177 -266 -266 -177 177 -133 -44 0 -262 -395 0 0 262 -134 44 -177 -177 -266 266 177 177 -44 134 -262 0 0 395 262 0 44 133 -177 177 266 266 177 -177 134 44 0 262 395 0 0 -262 133 -44 177 177 266 -266 -177 -177 44 -133 262 0 0 -395 -262 0 -44 -134zm-625 -89l56 0 0 112 -56 0 0 -112zm0 223l56 0 0 617 -56 0 0 -617zm875 338l-246 0 -69 205 162 162 -186 186 -162 -162 -205 69 0 246 -282 0 0 -246 -205 -69 -162 162 -186 -186 162 -162 -68 -205 -246 0 0 -282 246 0 68 -205 -162 -162 186 -186 162 162 205 -68 0 -246 282 0 0 246 205 68 162 -162 186 186 -162 162 69 205 246 0 0 282z"/>
+  <g id="_2382420711616">
+   <rect class="fil0" width="10236" height="10236"/>
+   <path class="fil1" d="M7469 3815l697 -697 -1048 -1047 -697 696 -523 -173 0 -1031 -1556 0 0 1031 -527 173 -697 -696 -1047 1047 697 697 -174 527 -1031 0 0 1556 1031 0 174 523 -697 697 1047 1048 697 -697 527 173 0 1032 1556 0 0 -1032 523 -173 697 697 1048 -1048 -697 -697 173 -523 1032 0 0 -1556 -1032 0 -173 -527zm-2460 -351l219 0 0 665 -219 0 0 -665zm0 1102l219 0 0 2206 -219 0 0 -2206zm3444 1107l-969 0 -271 807 638 638 -733 733 -638 -638 -807 271 0 969 -1110 0 0 -969 -807 -271 -638 638 -732 -733 637 -638 -267 -807 -969 0 0 -1110 969 0 267 -807 -637 -638 732 -732 638 637 807 -267 0 -969 1110 0 0 969 807 267 638 -637 733 732 -638 638 271 807 969 0 0 1110z"/>
   </g>
  </g>
 </svg>
