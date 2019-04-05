@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.1811in" height="1.1811in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 11811 11811"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1760891347280">
+   <polygon class="fil0" points="0,11811 11811,11811 11811,0 0,0 "/>
+   <g>
+    <path class="fil1" d="M5906 10008c994,0 1926,-387 2630,-1091 699,-699 1085,-1635 1085,-2625 0,-995 -386,-1926 -1085,-2631 -673,-672 -1558,-1053 -2503,-1085l0 -518 640 0 0 -255 -1535 0 0 255 640 0 0 518c-945,32 -1830,413 -2503,1085 -699,705 -1085,1636 -1085,2631 0,990 386,1926 1085,2625 704,704 1636,1091 2631,1091l0 0zm-2449 -6165c622,-622 1445,-981 2321,-1013l0 382 255 0 0 -382c876,32 1699,391 2321,1013 622,622 977,1440 1009,2317l-382 0 0 259 382 0c-32,877 -387,1694 -1009,2317 -622,627 -1445,981 -2321,1013l0 -382 -255 0 0 382c-876,-32 -1699,-386 -2321,-1013 -622,-623 -977,-1440 -1008,-2317l381 0 0 -259 -381 0c31,-877 386,-1695 1008,-2317z"/>
+    <polygon class="fil1" points="3943,4506 3580,4147 3761,3966 4125,4329 "/>
+    <polygon class="fil1" points="8050,8618 7686,8254 7868,8072 8231,8436 "/>
+    <polygon class="fil1" points="7868,4506 7686,4329 8050,3966 8231,4147 "/>
+    <polygon class="fil1" points="3761,8618 3580,8436 3943,8072 4125,8254 "/>
+    <path class="fil1" d="M5906 6805c281,0 513,-232 513,-513 0,-241 -164,-441 -386,-496l0 -1299 -255 0 0 1299c-222,55 -386,255 -386,496 0,281 232,513 514,513zm0 -772c140,0 258,118 258,259 0,140 -118,254 -258,254 -141,0 -255,-114 -255,-254 0,-141 114,-259 255,-259z"/>
+   </g>
+  </g>
+ </g>
+</svg>
