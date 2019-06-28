@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="19.1596in" height="2.38016in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 191596 23802"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#BB9B61}
+    .fil7 {fill:#D2AE6D}
+    .fil6 {fill:#D7B67C}
+    .fil5 {fill:#DBBD89}
+    .fil4 {fill:#DFC495}
+    .fil3 {fill:#E2CAA0}
+    .fil1 {fill:#E5CFAA}
+    .fil0 {fill:#F7F1E5}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2542901161824">
+   <polygon class="fil0" points="191597,14217 -1,14217 -1,23802 191597,23802 "/>
+   <g>
+    <polygon class="fil1" points="-1,0 31932,0 31932,14217 -1,14217 "/>
+    <path id="1" class="fil2" d="M-1 0l31933 0 0 14217 -31933 0 0 -14217zm31343 591l-30752 0 0 13035 30752 0 0 -13035z"/>
+   </g>
+   <g>
+    <polygon class="fil3" points="31932,0 63865,0 63865,14217 31932,14217 "/>
+    <path id="1" class="fil2" d="M31932 0l31933 0 0 14217 -31933 0 0 -14217zm31343 591l-30752 0 0 13035 30752 0 0 -13035z"/>
+   </g>
+   <g>
+    <polygon class="fil4" points="63865,0 95798,0 95798,14217 63865,14217 "/>
+    <path id="1" class="fil2" d="M63865 0l31933 0 0 14217 -31933 0 0 -14217zm31343 591l-30752 0 0 13035 30752 0 0 -13035z"/>
+   </g>
+   <g>
+    <polygon class="fil5" points="95798,0 127731,0 127731,14217 95798,14217 "/>
+    <path id="1" class="fil2" d="M95798 0l31933 0 0 14217 -31933 0 0 -14217zm31343 591l-30752 0 0 13035 30752 0 0 -13035z"/>
+   </g>
+   <g>
+    <polygon class="fil6" points="127731,0 159664,0 159664,14217 127731,14217 "/>
+    <path id="1" class="fil2" d="M127731 0l31933 0 0 14217 -31933 0 0 -14217zm31343 591l-30752 0 0 13035 30752 0 0 -13035z"/>
+   </g>
+   <g>
+    <polygon class="fil7" points="159664,0 191597,0 191597,14217 159664,14217 "/>
+    <path id="1" class="fil2" d="M159664 0l31933 0 0 14217 -31933 0 0 -14217zm31343 591l-30752 0 0 13035 30752 0 0 -13035z"/>
+   </g>
+  </g>
+ </g>
+</svg>
